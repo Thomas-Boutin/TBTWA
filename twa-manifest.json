@@ -1,0 +1,41 @@
+{
+  "packageId": "io.github.thomas_boutin.twa",
+  "host": "thomas-boutin.github.io",
+  "name": "Thomas Boutin's Profile",
+  "launcherName": "TB's Profile",
+  "display": "standalone",
+  "themeColor": "#7756E3",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#7756E3",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://thomas-boutin.github.io/icons/icon-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/Users/thomasboutin/Documents/Projets/android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://thomas-boutin.github.io/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://thomas-boutin.github.io/",
+  "minSdkVersion": 19,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1"
+}
